@@ -12,6 +12,7 @@
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
 # start date:    Wed, 21 Feb 2001 00:00:00
+0.0.0.0 bet365.es
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
